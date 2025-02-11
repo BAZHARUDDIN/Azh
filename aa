@@ -1,0 +1,4 @@
+name = "PythonGeeks"
+print(name[6]) # outputs 'G'
+name[6] = 'g' # throws error
+print(name)
